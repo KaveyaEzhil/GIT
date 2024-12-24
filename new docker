@@ -1,0 +1,3 @@
+FROM nginx:alpine
+
+CMD ["welcome ", "click to login;"]
